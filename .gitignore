@@ -1,0 +1,8 @@
+Terraform/jenkins-prov/.terraform/*
+Terraform/architecture-prov/.terraform/*
+Terraform/jenkins-prov/terraform.tfvars
+Terraform/architecture-prov/terraform.tfvars
+Terraform/jenkins-prov/terraform.tfstate
+Terraform/architecture-prov/terraform.tfstate
+Terraform/jenkins-prov/.terraform.lock*
+Terraform/architecture-prov/.terraform.lock*
